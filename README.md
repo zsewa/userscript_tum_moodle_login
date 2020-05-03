@@ -1,4 +1,4 @@
-# LMU Moodle Login Userscript
+# TUM Moodle Login Userscript
 Stay logged in on TUM Moodle `www.moodle.tum.de`
 
 ## Install
